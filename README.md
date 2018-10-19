@@ -1,0 +1,2 @@
+# Whispa
+git init
